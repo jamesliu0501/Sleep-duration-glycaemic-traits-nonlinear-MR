@@ -5,4 +5,4 @@ One is the R script of the nonlinear Mendelian randomization applying localized 
 
 The another file contains the R script of the approximation of the clinical implications. 
 
-Please feel to contact with the author, Junxi (James) Liu for further information: james.liu@ndph.ox.ac.uk (main) / ieu_james.liu@bristol.ac.uk (secondary) 
+Please feel free to contact the author, Junxi (James) Liu for further information, if you find anything unclear. james.liu@ndph.ox.ac.uk (main) / ieu_james.liu@bristol.ac.uk (secondary) 
